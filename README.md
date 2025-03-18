@@ -76,13 +76,13 @@
 
 - [Longest Substring Without Repeating Characters](./longest_substring_without_repeats/Program.cs)  - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - [Longest Repeating Character Replacement](./longest_repeating_char_replacement/Program.cs)        - https://leetcode.com/problems/longest-repeating-character-replacement/
-- Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
-- Valid Anagram - https://leetcode.com/problems/valid-anagram/
-- Group Anagrams - https://leetcode.com/problems/group-anagrams/
-- Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
-- Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
-- Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
-- Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
+- [Minimum Window Substring](./min_window_substr/Program.cs)                                        - https://leetcode.com/problems/minimum-window-substring/
+- [Valid Anagram](./valid_anagram/Program.cs)                                                       - https://leetcode.com/problems/valid-anagram/
+- [Group Anagrams](./group_anagrams/Program.cs)                                                     - https://leetcode.com/problems/group-anagrams/
+- [Valid Parentheses](./valid_parentheses/Program.cs)                                               - https://leetcode.com/problems/valid-parentheses/
+- [Valid Palindrome](./valid_palindrome/Program.cs)                                                 - https://leetcode.com/problems/valid-palindrome/
+- [Longest Palindromic Substring](./longest_palindromic_substr/Program.cs)                          - https://leetcode.com/problems/longest-palindromic-substring/
+- [Palindromic Substrings](./palindromic_substr/Program.cs)                                         - https://leetcode.com/problems/palindromic-substrings/
 - Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
 
 ## Tree
@@ -116,4 +116,7 @@
 
 - [Two Sum II](./two_sum_II/Program.cs)                                                 - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 - [Search in Rotated Sorted Array II](./search_in_rotated_sorted_arr_ii/Program.cs)     - https://leetcode.com/problems/search-in-rotated-sorted-array-ii
+https://leetcode.com/problems/sliding-window-maximum/
+https://leetcode.com/problems/minimum-size-subarray-sum/
+https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 
