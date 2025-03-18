@@ -83,7 +83,7 @@
 - [Valid Palindrome](./valid_palindrome/Program.cs)                                                 - https://leetcode.com/problems/valid-palindrome/
 - [Longest Palindromic Substring](./longest_palindromic_substr/Program.cs)                          - https://leetcode.com/problems/longest-palindromic-substring/
 - [Palindromic Substrings](./palindromic_substr/Program.cs)                                         - https://leetcode.com/problems/palindromic-substrings/
-- Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
+- [Encode and Decode Strings](./encode_decode_strings/Program.cs)                                   - https://leetcode.com/problems/encode-and-decode-strings/
 
 ## Tree
 
