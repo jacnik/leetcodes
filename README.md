@@ -15,11 +15,11 @@
 
 ## Binary
 
-- [Sum of Two Integers](/sum_of_two_integers.py) - https://leetcode.com/problems/sum-of-two-integers/
-- [Number of 1 Bits](/number_of_1_bits.py) - https://leetcode.com/problems/number-of-1-bits/
-- [Counting Bits](/counting_bits.py) - https://leetcode.com/problems/counting-bits/
-- Missing Number - https://leetcode.com/problems/missing-number/
-- Reverse Bits - https://leetcode.com/problems/reverse-bits/
+- [Sum of Two Integers](sum_of_two_integers.py) - https://leetcode.com/problems/sum-of-two-integers/
+- [Number of 1 Bits](number_of_1_bits.py)       - https://leetcode.com/problems/number-of-1-bits/
+- [Counting Bits](counting_bits.py)             - https://leetcode.com/problems/counting-bits/
+- Missing Number                                - https://leetcode.com/problems/missing-number/
+- Reverse Bits                                  - https://leetcode.com/problems/reverse-bits/
 
 ## Dynamic Programming
 
@@ -87,15 +87,15 @@
 
 ## Tree
 
-- Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
-- Same Tree - https://leetcode.com/problems/same-tree/
-- Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
+- [Maximum Depth of Binary Tree](./max_depth_btree/Program.cs)                                      - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- [Same Tree](./same_tree/Program.cs)                                                               - https://leetcode.com/problems/same-tree/
+- [Invert/Flip Binary Tree](./invert_tree/Program.cs)                                               - https://leetcode.com/problems/invert-binary-tree/
 - Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
-- Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
+- [Binary Tree Level Order Traversal](./bfs/Program.cs) - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-- Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
-- Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-- Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
+- [Subtree of Another Tree](./subtree_of_a_tree/Program.cs)                                         - https://leetcode.com/problems/subtree-of-another-tree/
+- [Construct Binary Tree from Preorder and Inorder Traversal](./pre_in_order_traversal/Program.cs)  - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+- [Validate Binary Search Tree](./validate_binary_search_tree/Program.cs)                           - https://leetcode.com/problems/validate-binary-search-tree/
 - Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 - Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
@@ -105,7 +105,7 @@
 ## Heap
 
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
-- Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
+- [Top K Frequent Elements](./top_k_frequent/Program.cs) - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
 
 
@@ -119,4 +119,12 @@
 https://leetcode.com/problems/sliding-window-maximum/
 https://leetcode.com/problems/minimum-size-subarray-sum/
 https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+- [bfs](./bfs/Program.cs)
+- [construct-binary-tree-from-inorder-and-postorder-traversal]                              - https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+- [binary-tree-inorder-traversal](./inorder_traversal/Program.cs)                           - https://leetcode.com/problems/binary-tree-inorder-traversal
+- [binary-tree-preorder-traversal](./preorder_traversal/Program.cs)                         - https://leetcode.com/problems/binary-tree-preorder-traversal
+- [binary-tree-postorder-traversal](./postorder_traversal/Program.cs)                       - https://leetcode.com/problems/binary-tree-postorder-traversal
+- [n-ary-tree-postorder-traversal](./n-ary_postorder_traversal/Program.cs)                  - https://leetcode.com/problems/n-ary-tree-postorder-traversal
+- [n-ary-tree-preorder-traversal](./n-ary_preorder_traversal/n_ary_preorder_traversal.py)   - https://leetcode.com/problems/n-ary-tree-preorder-traversal
+- [n-ary-tree-level-order-traversal] - https://leetcode.com/problems/n-ary-tree-level-order-traversal
 
