@@ -91,15 +91,15 @@
 - [Same Tree](./same_tree/Program.cs)                                                               - https://leetcode.com/problems/same-tree/
 - [Invert/Flip Binary Tree](./invert_tree/Program.cs)                                               - https://leetcode.com/problems/invert-binary-tree/
 - Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
-- [Binary Tree Level Order Traversal](./bfs/Program.cs) - https://leetcode.com/problems/binary-tree-level-order-traversal/
+- [Binary Tree Level Order Traversal](./bfs/Program.cs)                                             - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 - [Subtree of Another Tree](./subtree_of_a_tree/Program.cs)                                         - https://leetcode.com/problems/subtree-of-another-tree/
 - [Construct Binary Tree from Preorder and Inorder Traversal](./pre_in_order_traversal/Program.cs)  - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - [Validate Binary Search Tree](./validate_binary_search_tree/Program.cs)                           - https://leetcode.com/problems/validate-binary-search-tree/
-- Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-- Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-- Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
-- Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
+- [Kth Smallest Element in a BST](./kth_smallest_in_BST/kth_smallest_in_bst.py)                     - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- [Lowest Common Ancestor of BST](./lca_of_bst/lca_of_bst.py)                                       - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+- [Implement Trie (Prefix Tree)](./trie/trie.py)                                                    - https://leetcode.com/problems/implement-trie-prefix-tree/
+- [Add and Search Word](./add_and_search_word/add_and_search_word.py)                               - https://leetcode.com/problems/add-and-search-word-data-structure-design/
 - Word Search II - https://leetcode.com/problems/word-search-ii/
 
 ## Heap
@@ -120,11 +120,16 @@ https://leetcode.com/problems/sliding-window-maximum/
 https://leetcode.com/problems/minimum-size-subarray-sum/
 https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 - [bfs](./bfs/Program.cs)
-- [construct-binary-tree-from-inorder-and-postorder-traversal]                              - https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
-- [binary-tree-inorder-traversal](./inorder_traversal/Program.cs)                           - https://leetcode.com/problems/binary-tree-inorder-traversal
-- [binary-tree-preorder-traversal](./preorder_traversal/Program.cs)                         - https://leetcode.com/problems/binary-tree-preorder-traversal
-- [binary-tree-postorder-traversal](./postorder_traversal/Program.cs)                       - https://leetcode.com/problems/binary-tree-postorder-traversal
-- [n-ary-tree-postorder-traversal](./n-ary_postorder_traversal/Program.cs)                  - https://leetcode.com/problems/n-ary-tree-postorder-traversal
-- [n-ary-tree-preorder-traversal](./n-ary_preorder_traversal/n_ary_preorder_traversal.py)   - https://leetcode.com/problems/n-ary-tree-preorder-traversal
-- [n-ary-tree-level-order-traversal] - https://leetcode.com/problems/n-ary-tree-level-order-traversal
+- [construct-binary-tree-from-inorder-and-postorder-traversal]                                      - https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+- [binary-tree-inorder-traversal](./inorder_traversal/Program.cs)                                   - https://leetcode.com/problems/binary-tree-inorder-traversal
+- [binary-tree-preorder-traversal](./preorder_traversal/Program.cs)                                 - https://leetcode.com/problems/binary-tree-preorder-traversal
+- [binary-tree-postorder-traversal](./postorder_traversal/Program.cs)                               - https://leetcode.com/problems/binary-tree-postorder-traversal
+- [n-ary-tree-postorder-traversal](./n-ary_postorder_traversal/Program.cs)                          - https://leetcode.com/problems/n-ary-tree-postorder-traversal
+- [n-ary-tree-preorder-traversal](./n-ary_preorder_traversal/n_ary_preorder_traversal.py)           - https://leetcode.com/problems/n-ary-tree-preorder-traversal
+- [n-ary-tree-level-order-traversal](./n-ary_level_order_traversal/n_ary_level_order_traversal.py)  - https://leetcode.com/problems/n-ary-tree-level-order-traversal
+
+# ALGO VISUALIZATIONS
+
+- [usfca](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [selfboot](https://gallery.selfboot.cn/en/algorithms/trie)
 
