@@ -37,8 +37,8 @@
 
 ## Graph
 
-- [Clone Graph](./clone_graph.py) - https://leetcode.com/problems/clone-graph/
-- [Course Schedule](./course_schedule.py) - https://leetcode.com/problems/course-schedule/
+- [Clone Graph](./clone_graph.py)           - https://leetcode.com/problems/clone-graph/
+- [Course Schedule](./course_schedule.py)   - https://leetcode.com/problems/course-schedule/
 - Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - Number of Islands - https://leetcode.com/problems/number-of-islands/
 - Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
@@ -58,11 +58,11 @@
 
 ## Linked List
 
-- Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
-- Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
+- [Reverse a Linked List](./reverse_linked_list/reverse_linked_list.py)                         - https://leetcode.com/problems/reverse-linked-list/
+- [Detect Cycle in a Linked List](./linked_list_cycle/linked_list_cycle.py)                     - https://leetcode.com/problems/linked-list-cycle/
+- [Merge Two Sorted Lists](./merge_two_sorted_lists/merge_two_sorted_lists.py)                  - https://leetcode.com/problems/merge-two-sorted-lists/
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
-- Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+- [Remove Nth Node From End Of List](./remove_nth_from_list_end/remove_nth_from_list_end.py)    - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - Reorder List - https://leetcode.com/problems/reorder-list/
 
 ## Matrix
@@ -127,6 +127,7 @@ https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 - [n-ary-tree-postorder-traversal](./n-ary_postorder_traversal/Program.cs)                          - https://leetcode.com/problems/n-ary-tree-postorder-traversal
 - [n-ary-tree-preorder-traversal](./n-ary_preorder_traversal/n_ary_preorder_traversal.py)           - https://leetcode.com/problems/n-ary-tree-preorder-traversal
 - [n-ary-tree-level-order-traversal](./n-ary_level_order_traversal/n_ary_level_order_traversal.py)  - https://leetcode.com/problems/n-ary-tree-level-order-traversal
+- [reverse-linked-list-ii] - https://leetcode.com/problems/reverse-linked-list-ii/
 
 # ALGO VISUALIZATIONS
 
