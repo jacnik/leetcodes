@@ -61,9 +61,9 @@
 - [Reverse a Linked List](./reverse_linked_list/reverse_linked_list.py)                         - https://leetcode.com/problems/reverse-linked-list/
 - [Detect Cycle in a Linked List](./linked_list_cycle/linked_list_cycle.py)                     - https://leetcode.com/problems/linked-list-cycle/
 - [Merge Two Sorted Lists](./merge_two_sorted_lists/merge_two_sorted_lists.py)                  - https://leetcode.com/problems/merge-two-sorted-lists/
-- Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
+- [Merge K Sorted Lists](./merge_k_sorted_lists/merge_k_sorted_lists.py)                        - https://leetcode.com/problems/merge-k-sorted-lists/
 - [Remove Nth Node From End Of List](./remove_nth_from_list_end/remove_nth_from_list_end.py)    - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-- Reorder List - https://leetcode.com/problems/reorder-list/
+- [Reorder List](./reorder_list/reorder_list.py)                                                - https://leetcode.com/problems/reorder-list/
 
 ## Matrix
 
@@ -104,8 +104,8 @@
 
 ## Heap
 
-- Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
-- [Top K Frequent Elements](./top_k_frequent/Program.cs) - https://leetcode.com/problems/top-k-frequent-elements/
+- [Merge K Sorted Lists](./merge_k_sorted_lists/merge_k_sorted_lists.py)    - https://leetcode.com/problems/merge-k-sorted-lists/
+- [Top K Frequent Elements](./top_k_frequent/Program.cs)                    - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
 
 
