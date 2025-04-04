@@ -116,7 +116,7 @@
 
 - [Two Sum II](./two_sum_II/Program.cs)                                                 - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 - [Search in Rotated Sorted Array II](./search_in_rotated_sorted_arr_ii/Program.cs)     - https://leetcode.com/problems/search-in-rotated-sorted-array-ii
-https://leetcode.com/problems/sliding-window-maximum/
+- [sliding window maximum](./sliding_window_maximum/sliding_window_maximum.py)          - https://leetcode.com/problems/sliding-window-maximum/
 https://leetcode.com/problems/minimum-size-subarray-sum/
 https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 - [bfs](./bfs/Program.cs)
